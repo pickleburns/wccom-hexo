@@ -15,6 +15,8 @@ I though it would be a fine time to start a blog, so I said "I know, I'll use on
 
 I also thought it might be a good idea to use my creaky old Windows laptop, which was feeling pretty okay with Windows 10. Let's do it!
 
+<!--more-->
+
 * Install [Git](https://git-scm.com)!
 * Install [Node](https://nodejs.org)!
 * Uh.. [upgrade npm](https://www.npmjs.com/package/npm-windows-upgrade)...
