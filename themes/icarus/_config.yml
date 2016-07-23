@@ -28,9 +28,8 @@ customize:
     social_links:
         github: http://github.com/Merovian
         twitter: https://twitter.com/pickleburns
-        facebook: /
-        dribbble: /
-        rss: /
+        linkedin: https://www.linkedin.com/in/william-cowen-78b1744
+        rss: /atom.xml
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
