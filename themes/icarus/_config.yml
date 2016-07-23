@@ -20,7 +20,7 @@ customize:
         author: Will Cowen
         author_title: Software Engineer & Serial Dilettante
         location: New Hampshire, USA
-        follow: http://willcowen.com
+        #follow: /atom.xml
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
