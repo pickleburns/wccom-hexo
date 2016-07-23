@@ -2,6 +2,8 @@
 title: Borrowing an Axe
 date: 2016-07-22 22:53:10
 banner: /images/axe_960x400.jpg
+categories:
+ - writing
 tags:
  - sufficiency
  - beginnings
