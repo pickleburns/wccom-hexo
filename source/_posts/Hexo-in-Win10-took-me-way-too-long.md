@@ -25,7 +25,8 @@ I also thought it might be a good idea to use my creaky old Windows laptop, whic
   *  Don't forget to set the shell to `C:\Program Files\Git\bin\sh.exe` and the login options to `--login -i`
 * I need [Visual Studio 2015 CE](https://www.visualstudio.com/)? Okay. Okay. I can do that (for hours, apparently).
 * [Python](https://python.org)? Really? Sure. Yes. Yes, I also love Python.
-* ctrl-s doesn't work? Are you kidding? No hope? None. ctrl-shift-s, enter, 'y' isn't quite as convenient.
+* ~~Ctrl-s doesn't work? Are you kidding? No hope? Ctrl-shift-s, enter, 'y' isn't quite as convenient.~~
+* Did you know that [Skype in Windows will take over your CTRL-S completely](https://darrenmyher.com/2014/01/18/ctrls-stopped-working-on-my-computerturns-out-skype-was-the-reason/)?
 * let's get some ssh keys going for this machine.
 * `eval $(ssh-agent)` in .bashrc because that's how I roll.
 * github repo, let's keep it rolling
