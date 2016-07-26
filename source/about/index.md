@@ -15,7 +15,7 @@ I have resolved, therefore, to try to write down some of the things I am doing, 
 Things that I actually do:
 * develop web applications (ruby and javascript, mostly, as my real career).
 * manage projects (legitimately, also as my real career).
-* write bad prose (only the worst, my one-time career goal).
+* write bad prose (only the worst, my one-time career goal), some of which I will subject you to.
 * play banjo poorly (just try not to hear it, I defy you).
 
 Things that I have recently tried to do:
